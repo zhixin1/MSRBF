@@ -1,2 +1,2 @@
 # MSRBF
-for convenience of  versions management 
+MSRBF network in matlab
